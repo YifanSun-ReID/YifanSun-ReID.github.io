@@ -72,9 +72,9 @@ projects:
 
 
 education:
-  - degree: Bachelor, Master, and PhD
+  - degree: Bachelor, Master, and PhD degrees
     university: Tsinghua University
-#    time: xxx
+    time: Computer Vision
     details: |
       - Computer Vision
 
