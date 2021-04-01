@@ -91,7 +91,7 @@ publications:
     - title: "Circle loss: A unified perspective of pair similarity optimization"
       link: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf"
       authors: <b>Yifan Sun</b>, Changmao Cheng, Yuhan Zhang, Chi Zhang, Liang Zheng, Zhongdao Wang, Yichen Wei
-      conference: CVPR, 2020. [<a href = " https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf" target="_blank">Paper</a>]
+      conference: CVPR, 2020 (Oral). [<a href = " https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf" target="_blank">Paper</a>]
 
     - title: "Learning part-based convolutional features for person re-identification"
       link: "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf"
@@ -111,7 +111,7 @@ publications:
     - title: "SVDNet for Pedestrian Retrieval"
       link: "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html"
       authors: <b>Yifan Sun</b>, Liang Zheng, Weijian Deng, Shengjin Wang
-      conference: ICCV, 2017. [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
+      conference: ICCV, 2017 (spotlight). [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
         <a href = "https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval" target="_blank">Code</a>]
 
 
