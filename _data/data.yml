@@ -83,12 +83,37 @@ publications:
   title: Publications
   intro: <u>Full list is in <a href = "https://scholar.google.com/citations?user=uUZEL7UAAAAJ&hl=en" target="_blank">Google Scholar</a></u>
   papers:
+    - title: "Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scalesn"
+      link: "https://arxiv.org/pdf/2103.11781"
+      authors: <b>Yifan Sun</b>, Yuke Zhu, Yuhan Zhang, Pengkun Zheng, Xi Qiu, Chi Zhang, Yichen Wei
+      conference: CVPR, 2021. [<a href = "https://arxiv.org/pdf/2103.11781 " target="_blank">Paper</a>]
+
+    - title: "Circle loss: A unified perspective of pair similarity optimization"
+      link: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf"
+      authors: <b>Yifan Sun</b>, Changmao Cheng, Yuhan Zhang, Chi Zhang, Liang Zheng, Zhongdao Wang, Yichen Wei
+      conference: CVPR, 2020. [<a href = " https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf" target="_blank">Paper</a>]
+
+    - title: "Learning part-based convolutional features for person re-identification"
+      link: "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf"
+      authors: <b>Yifan Sun</b>, Liang Zheng, Yali Li, Yi Yang, Qi Tian, Shengjin Wang
+      conference: IEEE TPAMI, 2020. [<a href = "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf " target="_blank">Paper</a>]
+
+    - title: "Perceive where to focus: Learning visibility-aware part-level features for partial person re-identification"
+      link: "http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf"
+      authors: <b>Yifan Sun</b>, Qin Xu, Yali Li, Chi Zhang, Yikang Li, Shengjin Wang, Jian Sun
+      conference: CVPR, 2019. [<a href = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf " target="_blank">Paper</a>]
+
+    - title: "Beyond part models: Person retrieval with refined part pooling (and a strong convolutional baseline)"
+      link: "http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf"
+      authors: <b>Yifan Sun</b>, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang
+      conference: ECCV, 2018. [<a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf" target="_blank">Paper</a>]
+
     - title: "SVDNet for Pedestrian Retrieval"
       link: "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html"
-      authors: Yifan Sun, Liang Zheng, <b>Weijian Deng</b>, Shengjin Wang
+      authors: <b>Yifan Sun</b>, Liang Zheng, Weijian Deng, Shengjin Wang
       conference: ICCV, 2017. [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
         <a href = "https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval" target="_blank">Code</a>]
-#      img: svdnet.png
+
 
 
 
