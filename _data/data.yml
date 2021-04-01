@@ -67,9 +67,14 @@ projects:
     title: News
     summary: |
 
-      - <b>[Jul 2017]</b> One paper is accepted to IEEE ICCV, 2017. [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
-                                                                            <a href = "https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval" target="_blank">Code</a>]
-
+      - <b>[Mar 2021]</b> One paper is accepted to IEEE CVPR, 2021.
+      - <b>[Mar 2020]</b> Five papers are accepted to IEEE CVPR, 2020.
+      - <b>[June 2019]</b> One paper is accepted to IEEE TPAMI, 2019.
+      - <b>[Mar 2019]</b> Two papers are accepted to CVPR, 2019.
+      - <b>[Jul 2018]</b> One paper is accepted to ECCV, 2018.
+      - <b>[Jul 2018]</b> Our paper wins <a href = "https://iapr.org/archives/icpr2018/index.php%3Fm=content&c=index&a=lists&catid=31.html#:~:text=We%20are%20happy%20to%20announce%20that%20the%20Piero%20Zamperoni%20Best,Stationary%20Bandit%20with%20Expert%20Advice." target="_blank">Best Scientific Paper Award</a></u> in ICPR, 2018.
+      - <b>[Jul 2017]</b> One paper is accepted to IEEE ICCV, 2017.
+      - <b>[Jul 2016]</b> One paper is accepted to ECCV, 2016.
 
 education:
   - degree: Bachelor, Master, and PhD
@@ -96,7 +101,7 @@ publications:
     - title: "Learning part-based convolutional features for person re-identification"
       link: "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf"
       authors: <b>Yifan Sun</b>, Liang Zheng, Yali Li, Yi Yang, Qi Tian, Shengjin Wang
-      conference: IEEE TPAMI, 2020. [<a href = "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf " target="_blank">Paper</a>]
+      conference: IEEE TPAMI, 2019. [<a href = "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf " target="_blank">Paper</a>]
 
     - title: "Perceive where to focus: Learning visibility-aware part-level features for partial person re-identification"
       link: "http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf"
@@ -108,12 +113,16 @@ publications:
       authors: <b>Yifan Sun</b>, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang
       conference: ECCV, 2018. [<a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf" target="_blank">Paper</a>]
 
+
+    - title: "Attend and align: Improving deep representations with feature alignment layer for person retrieval"
+      link: "https://ieeexplore.ieee.org/iel7/8527858/8545020/08545850.pdf"
+      authors: Qin Xu, <b>Yifan Sun</b>, Yali Li, Shengjin Wang
+      conference: ICPR, 2018 (Best Scientific Paper Award). [<a href = "https://ieeexplore.ieee.org/iel7/8527858/8545020/08545850.pdf" target="_blank">Paper</a>]
+
     - title: "SVDNet for Pedestrian Retrieval"
       link: "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html"
       authors: <b>Yifan Sun</b>, Liang Zheng, Weijian Deng, Shengjin Wang
-      conference: ICCV, 2017 (spotlight). [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
-        <a href = "https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval" target="_blank">Code</a>]
-
+      conference: ICCV, 2017 (spotlight). [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>]
 
 
 
