@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Weijian Deng
-    tagline: Second-year PhD student at Australian National University
+    name: Yifan Sun
+    tagline: XXX
     avatar: dwj.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dengwj16@gmail.com
-    email-1: weijian.deng@anu.edu.au
+    email: sunyif15@tsinghua.org.cn
+    #email-1:
     phone:
     website:
     linkedin:
-    github: Simon4Yan
+    github: YifanSun-ReID
     zhihu: False
     googlescholar: True
     gitlab:
@@ -25,7 +25,6 @@ sidebar:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    visda2020: True
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -40,142 +39,62 @@ sidebar:
 #        link:
 
     supervisors:
-      - item: Stephen Gould
-        link: http://users.cecs.anu.edu.au/~sgould/
-
-      - item: Liang Zheng
-        link: http://liangzheng.com.cn/
+      - item: xxxxx
+        link: xxx
 
     friends:
-      - item: Xiaoxiao Sun
-        link: https://xiaoxiaosun.com/
+      - item: xx
+        link: xxx
 
-      - item: Yifan Sun
-        link: https://syfafterzy.github.io/
-
-      - item: Gangming Zhao
-        link: https://scholar.google.com/citations?user=bRKA7fUAAAAJ&hl=en
-
-      - item: Shengjian Zhao
-        link: https://github.com/ZhaoShengjian
 
 career-profile:
     title: Short Bio
     summary: |
-      I am a <b>second-year PhD student</b> at the College of Engineering and Computer Science, Australian National University,
-      where I am supervised by <a href = "http://users.cecs.anu.edu.au/~sgould/" target="_blank">Stephen Gould</a>
-      and <a href = "http://liangzheng.com.cn/" target="_blank">Liang Zheng</a>.
-      Befor that, I received the M.Eng. from the University of the Chinese Academy of Sciences in 2019, advised by Prof. Jianbin Jiao. I obtained the B.Eng.
-      from Beijing Jiaotong University in 2016, advised by Dr. Jupeng Li.
+     xxx
 
-      <b>Research interest </b> my general research interest is to develop deep learning model for computer vision tasks (e.g., fine-grained object recognition).
-      Recently, I focus on the dataset bias, understanding the model decision under novel environments. Please check our [<a href = "https://weijiandeng.me/AutoEval" target="_blank">recent CVPR 2021 work</a>].
+      <b>Research interest </b> xxx
 
 projects:
     title: News
     summary: |
-      - <b>[Mar 2021] </b> One paper is accepted to IEEE CVPR, 2021. [<a href = "https://arxiv.org/abs/2007.02915" target="_blank">Paper</a>,
-                                                                             <a href = "https://weijiandeng.me/AutoEval/" target="_blank" >Project</a>]
-
-      - <b>[Jul 2020 - Sep 2020]</b> Summer intern in NEC Labs America. Wonderful experience with my talented mentors Yumin Suh, Xiang Yu, Masoud Faraki, and Manmohan Chandraker.
-
-      - <b>[Aug 2020]</b> VisDA-2020 challenge successfully ends. Congratulations to the [<a href = "https://github.com/Simon4Yan/VisDA2020_Code_From_Top_Teams/" target="_blank">final teams</a>]!
-      Big thanks for all committee members Kate Saenko, Liang Zheng, and Xingchao Peng!
-
-      - <b>[Jan 2020]</b> One paper is accepted to IEEE TCSVT. [<a href = "https://ieeexplore.ieee.org/abstract/document/8964455/" target="_blank">Paper</a>]
-
-      - <b>[Jul 2020]</b> Honoured to be recognized by ECCV2020 as a top reviewer. [<a href = "https://eccv2020.eu/outstanding-reviewers/" target="_blank">Link</a>]
-
-      - <b>[Jul 2019]</b> Study PhD program at The Australian National University. My reseach is supported by Australian Governmen Scholarship [<a href = "https://www.anu.edu.au/study/scholarships/find-a-scholarship/australian-government-research-training-program-agrtp" target="_blank">AGRTP</a>].
-
-      - <b>[Jun 2019]</b> Receive M.Eng. from the University of the Chinese Academy of Sciences.
-
-      - <b>[Jun 2019]</b> Win 3rd place out of 84 participants in vehicle re-identification in CVPR 2019 AI-City Challenge.
-                  [<a href = "http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf" target="_blank">Paper</a>,
-                  <a href = "https://github.com/Simon4Yan/feature_learning" target="_blank">Code</a>]
-
-
-      - <b>[Jul 2018 - Nov 2018]</b> Reserch assistant in Singapore University of Technology and Design (SUTD).
-
-      - <b>[Mar 2018]</b> One paper is accepted to IEEE CVPR, 2018. [<a href = "http://openaccess.thecvf.com/content_cvpr_2018/html/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.html" target="_blank">Paper</a>,
-                                                                          <a href = "https://github.com/Simon4Yan/Learning-via-Translation" target="_blank" >Code</a>]
 
       - <b>[Jul 2017]</b> One paper is accepted to IEEE ICCV, 2017. [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
                                                                             <a href = "https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval" target="_blank">Code</a>]
 
 
 education:
-  - degree: Master of Science
-    university: University of Chinese Academy of Sciences
-    time: 2016-2019
+  - degree: xxx
+    university: xxx
+    time: xxx
     details: |
-      - Major in Computer Science
-      - Overall GPA: 85.6/ 100
-  - degree: Visting Student
-    university: Singapore University of Technology and Design
-    time: 2018
-    details:
-  - degree: Bachelor of Engineering
-    university: Beijing Jiaotong University
-    time: 2012-2016
-    details: |
-      - Major in Electronic Science and Technology
-      - Overall GPA: 92.3/ 100
-      - Ranking: 1/65
+      - xxx
+      - xxx
 
 
 publications:
   title: Publications
-  intro: <u>Full list is in <a href = "https://scholar.google.com/citations?user=lReHnAEAAAAJ&hl" target="_blank">Google Scholar</a></u>
+  intro: <u>Full list is in <a href = "https://scholar.google.com/citations?user=uUZEL7UAAAAJ&hl=en" target="_blank">Google Scholar</a></u>
   papers:
-    - title: "Are Labels Always Necessary for Classifier Accuracy Evaluation?"
-      link: "https://arxiv.org/pdf/2007.02915.pdf"
-      authors: <b>Weijian Deng</b> and Liang Zheng
-      conference: CVPR, 2021. [<a href = "https://arxiv.org/abs/2007.02915" target="_blank">Paper</a>,
-        <a href = "https://weijiandeng.me/AutoEval/" target="_blank" >Project</a>]
-      img: autoeval.png
-
-    - title: "Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification"
-      link: "http://openaccess.thecvf.com/content_cvpr_2018/html/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.html"
-      authors: <b>Weijian Deng</b>, Liang Zheng, et al.
-      conference: CVPR, 2018. [<a href = "http://openaccess.thecvf.com/content_cvpr_2018/html/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.html" target="_blank">Paper</a>,
-        <a href = "https://github.com/Simon4Yan/Learning-via-Translation" target="_blank" >Code</a>]
-      img: spgan.png
-
-    - title: "Rethinking Triplet Loss for Domain Adaptation"
-      link: "https://ieeexplore.ieee.org/abstract/document/8964455/"
-      authors: <b>Weijian Deng</b>, Liang Zheng, Yifan Sun, Jianbin Jiao
-      conference: IEEE TCSVT, 2020. [<a href = "https://ieeexplore.ieee.org/abstract/document/8964455/" target="_blank">Paper</a>] (Journal version of <a href = "https://arxiv.org/abs/1812.00893" target="_blank">"Domain alignment with triplets"</a>)
-      img: csvt.png
-
     - title: "SVDNet for Pedestrian Retrieval"
       link: "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html"
       authors: Yifan Sun, Liang Zheng, <b>Weijian Deng</b>, Shengjin Wang
       conference: ICCV, 2017. [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>,
         <a href = "https://github.com/Simon4Yan/SVDNet-for-Pedestrian-Retrieval" target="_blank">Code</a>]
-      img: svdnet.png
+#      img: svdnet.png
 
-    - title: "Fine-grained Classification via Categorical Memory Networks"
-      link: "https://arxiv.org/pdf/2012.06793.pdf"
-      authors: <b>Weijian Deng</b>, Joshua Marsh, Stephen Gould, Liang Zheng
-      conference: arXiv 2020. [<a href = "https://arxiv.org/abs/2012.06793" target="_blank">Paper</a>]
-      img: fgvc.png
 
 
 awards:
   title: Awards
   summary: |
-    - China National Scholarship  2014, 2015, 2018
+    - xxx
 
-    - Australian Government Research Training Program (AGRTP) Scholarship, 2019-2023
+    - xxx
 
 services:
   title: Professional Service
   summary: |
     - Reviewer: ICCV2021; CVPR2021; ECCV 2020; IJCAI 2020; ACM MM 2020; TPAMI; TIP; PR;
-    - Co-organizer: ECCV 2020 workshop on <a href = "http://ai.bu.edu/visda-2020" target="_blank">"Visual Domain Adaptation Challenge"</a>
-    - Guest speaker: SUTD 2018/12 (image-image translation); ANU 2019/09 (SVDNet)
-    - Honoured to be recognized by ECCV2020 as a top reviewer.
 
 skills:
   title: Skills &amp; Proficiency
