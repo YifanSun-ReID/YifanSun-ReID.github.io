@@ -1,0 +1,35 @@
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% if sidebar.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
+
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div><!--//profile-container-->
+
+  {% include contact.html %}
+
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+
+  {% include language.html %}
+  {% include interests.html %}
+  {% include friends.html %}
+  {% include supervisors.html %}
+  {% if sidebar.about %}
+    {% include about.html %}
+  {% endif %}
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5x16sh9ozi2&amp;m=7&amp;c=baff00&amp;cr1=ff0000&amp;sx=0" async="async"></script>
+<!--  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=Z-Kq9kdvWr7JJgXr6uO7tgUtiJjKUocuoOA2D5qZfDg&cl=ffffff&w=a"></script>-->
+</div><!--//sidebar-wrapper-->
