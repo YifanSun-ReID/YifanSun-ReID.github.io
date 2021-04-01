@@ -99,18 +99,18 @@ services:
 skills:
   title: Skills &amp; Proficiency
 
-  toolset:
-    - name: Python
-      level: 90%
-
-    - name: Matlab
-      level: 90%
-
-    - name: Pytorch
-      level: 90%
-
-    - name: Tensorflow
-      level: 60%
+#  toolset:
+#    - name: Python
+#      level: 90%
+#
+#    - name: Matlab
+#      level: 90%
+#
+#    - name: Pytorch
+#      level: 90%
+#
+#    - name: Tensorflow
+#      level: 60%
 
 #    - name: HTML5 & CSS
 #      level: 50%
