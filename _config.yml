@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Yifan Sun
-url: 'https://github.com/YifanSun-ReID/YifanSun-ReID.github.io/'
+url: 'https:/YifanSun-ReID.github.io/'
 baseurl: '/yifansun-reid.github.io/' #change it according to your repository name
 description: Yifan's homepage
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
