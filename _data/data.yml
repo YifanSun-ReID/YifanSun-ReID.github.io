@@ -38,13 +38,22 @@ sidebar:
 #      - item: Movie, Music
 #        link:
 
-    supervisors:
-      - item: xxxxx
-        link: xxx
+#    supervisors:
+#      - item: xxxxx
+#        link: xxx
 
     friends:
-      - item: xx
-        link: xxx
+      - item: Shengjin Wang
+        link: https://scholar.google.com.sg/citations?user=RgzLZZsAAAAJ&hl=zh-CN
+
+      - item: Liang Zheng
+        link: http://zheng-lab.cecs.anu.edu.au/
+
+      - item: Yi Yang
+        link: http://reler.net/
+
+      - item: Weiyi Chen
+        link: https://yichenwei.github.io/
 
 
 career-profile:
