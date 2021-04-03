@@ -1,0 +1,17 @@
+{% assign awards = site.data.data.awards %}
+{% if awards %}
+<section class="section projects">
+
+    <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+        <i class="fas fa-award" style="font-size:26px"> </i>
+    </span>
+        {{ awards.title }}
+    </h2>
+
+    <div class="summary">
+        {{ awards.summary | markdownify }}
+    </div><!--//summary-->
+
+</section><!--//section-->
+{% endif %}

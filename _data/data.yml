@@ -1,0 +1,161 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yifan Sun
+    tagline: Computer Vision
+    avatar: syf.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: sunyif15@tsinghua.org.cn
+    #email-1:
+    phone:
+    website:
+    linkedin:
+    github: YifanSun-ReID
+    zhihu: False
+    googlescholar: True
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Mandari
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+#    interests:
+#      - item: Movie, Music
+#        link:
+
+#    supervisors:
+#      - item: xxxxx
+#        link: xxx
+
+    friends:
+      - item: Shengjin Wang
+        link: https://scholar.google.com.sg/citations?user=RgzLZZsAAAAJ&hl=zh-CN
+
+      - item: Liang Zheng
+        link: http://zheng-lab.cecs.anu.edu.au/
+
+      - item: Yi Yang
+        link: http://reler.net/
+
+      - item: Weiyi Chen
+        link: https://yichenwei.github.io/
+
+
+career-profile:
+    title: Short Bio
+    summary: |
+     xxx
+
+      <b>Research interest </b> xxx
+
+projects:
+    title: News
+    summary: |
+
+      - <b>[Mar 2021]</b> One paper is accepted to IEEE CVPR, 2021.
+      - <b>[Mar 2020]</b> Two papers are accepted to IEEE CVPR, 2020.
+      - <b>[Jun 2019]</b> One paper is accepted to IEEE TPAMI, 2019.
+      - <b>[Mar 2019]</b> Two papers are accepted to CVPR, 2019.
+      - <b>[Jul 2018]</b> One paper is accepted to ECCV, 2018.
+      - <b>[Jul 2018]</b> Our paper wins <a href = "https://iapr.org/archives/icpr2018/index.php%3Fm=content&c=index&a=lists&catid=31.html#:~:text=We%20are%20happy%20to%20announce%20that%20the%20Piero%20Zamperoni%20Best,Stationary%20Bandit%20with%20Expert%20Advice." target="_blank">Best Scientific Paper Award</a> in ICPR, 2018.
+      - <b>[Jul 2017]</b> One paper is accepted to IEEE ICCV, 2017.
+      - <b>[Jul 2016]</b> One paper is accepted to ECCV, 2016.
+
+education:
+  - degree: Bachelor, Master, and PhD
+    university: Tsinghua University
+#    time: Computer Vision
+    details: |
+      - Computer Vision
+
+
+publications:
+  title: Publications
+  intro: <u>Full list is in <a href = "https://scholar.google.com/citations?user=uUZEL7UAAAAJ&hl=en" target="_blank">Google Scholar</a></u>
+  papers:
+    - title: "Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scalesn"
+      link: "https://arxiv.org/pdf/2103.11781"
+      authors: <b>Yifan Sun</b>, Yuke Zhu, Yuhan Zhang, Pengkun Zheng, Xi Qiu, Chi Zhang, Yichen Wei
+      conference: CVPR, 2021. [<a href = "https://arxiv.org/pdf/2103.11781 " target="_blank">Paper</a>]
+
+    - title: "Circle loss: A unified perspective of pair similarity optimization"
+      link: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf"
+      authors: <b>Yifan Sun</b>, Changmao Cheng, Yuhan Zhang, Chi Zhang, Liang Zheng, Zhongdao Wang, Yichen Wei
+      conference: CVPR, 2020 (Oral). [<a href = " https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Circle_Loss_A_Unified_Perspective_of_Pair_Similarity_Optimization_CVPR_2020_paper.pdf" target="_blank">Paper</a>]
+
+    - title: "Learning part-based convolutional features for person re-identification"
+      link: "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf"
+      authors: <b>Yifan Sun</b>, Liang Zheng, Yali Li, Yi Yang, Qi Tian, Shengjin Wang
+      conference: IEEE TPAMI, 2019. [<a href = "https://ieeexplore.ieee.org/iel7/34/4359286/08826008.pdf " target="_blank">Paper</a>]
+
+    - title: "Perceive where to focus: Learning visibility-aware part-level features for partial person re-identification"
+      link: "http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf"
+      authors: <b>Yifan Sun</b>, Qin Xu, Yali Li, Chi Zhang, Yikang Li, Shengjin Wang, Jian Sun
+      conference: CVPR, 2019. [<a href = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf " target="_blank">Paper</a>]
+
+    - title: "Beyond part models: Person retrieval with refined part pooling (and a strong convolutional baseline)"
+      link: "http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf"
+      authors: <b>Yifan Sun</b>, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang
+      conference: ECCV, 2018. [<a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf" target="_blank">Paper</a>]
+
+
+    - title: "Attend and align: Improving deep representations with feature alignment layer for person retrieval"
+      link: "https://ieeexplore.ieee.org/iel7/8527858/8545020/08545850.pdf"
+      authors: Qin Xu, <b>Yifan Sun</b>, Yali Li, Shengjin Wang
+      conference: ICPR, 2018 (Best Scientific Paper Award). [<a href = "https://ieeexplore.ieee.org/iel7/8527858/8545020/08545850.pdf" target="_blank">Paper</a>]
+
+    - title: "SVDNet for Pedestrian Retrieval"
+      link: "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html"
+      authors: <b>Yifan Sun</b>, Liang Zheng, Weijian Deng, Shengjin Wang
+      conference: ICCV, 2017 (spotlight). [<a href = "http://openaccess.thecvf.com/content_iccv_2017/html/Sun_SVDNet_for_Pedestrian_ICCV_2017_paper.html" target="_blank">Paper</a>]
+
+
+
+awards:
+  title: Awards
+  summary: |
+    - xxx
+
+    - xxx
+
+services:
+  title: Professional Service
+  summary: |
+    - Reviewer: ICCV 2021, 2019; CVPR 2021, 2020, 2019; ECCV 2020; TPAMI; TIP;
+
+skills:
+  title: Skills &amp; Proficiency
+
+#  toolset:
+#    - name: Python
+#      level: 90%
+#
+#    - name: Matlab
+#      level: 90%
+#
+#    - name: Pytorch
+#      level: 90%
+#
+#    - name: Tensorflow
+#      level: 60%
+
+#    - name: HTML5 & CSS
+#      level: 50%
+
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

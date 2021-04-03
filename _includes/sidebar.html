@@ -1,0 +1,31 @@
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% if sidebar.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% endif %}
+
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div><!--//profile-container-->
+
+  {% include contact.html %}
+
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+
+  {% include friends.html %}
+  {% if sidebar.about %}
+    {% include about.html %}
+  {% endif %}
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=59b2dz2jgmo&amp;m=2&amp;c=007eff&amp;cr1=00ff6c&amp;sx=0" async="async"></script>
+</div><!--//sidebar-wrapper-->
